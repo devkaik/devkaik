@@ -1,7 +1,9 @@
 
-### Hello, my name is kaik. 👁️‍🗨️
+👋 Bem vindo!
 
--
+    ☕ Java Developer
+    😇 Contacte-me no Discord: `! kaikᵀᴰᴬ#1504`
+
 
 ![kaik  GitHub stats](https://github-readme-stats.vercel.app/api?username=devkaik&show_icons=true&theme=dark)
 
